@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Express, React**
 
-- 👨‍💻 All of my projects are available at [https://bekatadesse.github.io/Portfolio-Landing-Page/](https://bekatadesse.github.io/Portfolio-Landing-Page/)
+- 👨‍💻 All of my projects are available at [Portfolio-Landing-Page](https://bekatadesse.github.io/Portfolio-Landing-Page/)
 
-- 📝 I regularly write articles on [https://medium.com/@bekatadessebek](https://medium.com/@bekatadessebek)
+- 📝 I regularly write articles on [medium](https://medium.com/@bekatadessebek)
 
 - 📫 How to reach me **bekatadessebek@gmail.com**
 
